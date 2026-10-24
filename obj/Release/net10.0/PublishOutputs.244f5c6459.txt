@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\helloworld.exe
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\appsettings.Development.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\appsettings.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\helloworld.dll
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\helloworld.deps.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\helloworld.runtimeconfig.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\helloworld\publish\helloworld.pdb
